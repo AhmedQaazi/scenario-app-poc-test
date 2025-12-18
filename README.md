@@ -45,37 +45,6 @@ npm start
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── Sidebar/
-│   │   ├── Sidebar.jsx
-│   │   ├── Sidebar.css
-│   │   └── index.js
-│   ├── Dashboard/
-│   │   ├── Dashboard.jsx
-│   │   ├── Dashboard.css
-│   │   └── index.js
-│   └── Chatbot/
-│       ├── Chatbot.jsx
-│       ├── Chatbot.css
-│       └── index.js
-├── data/
-│   └── mockData.js
-├── App.jsx
-├── App.css
-├── index.js
-└── index.css
-```
-
-## Tech Stack
-
-- **React 18** - UI Framework
-- **Recharts** - Chart library for data visualization
-- **Lucide React** - Icon library
-- **CSS** - Custom styling (no CSS framework)
 
 ## Design Highlights
 
